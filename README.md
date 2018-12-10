@@ -16,6 +16,3 @@ Install Node.js
 Install Angular-cli: $ npm install -g @angular/cli
 Install node modules:$ npm install 
 Compile Angular application: $ ng build
-
-
-
